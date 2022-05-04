@@ -1,3 +1,4 @@
+// This Javascript file
 var swiper = new Swiper(".mySwiper", {
     grabCursor: true,
     effect: "creative",
